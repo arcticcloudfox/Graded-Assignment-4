@@ -1,1 +1,51 @@
 /* Write your CSS here! */
+body {
+    margin: 8px;
+    display: block;
+}
+
+#mainHeading {
+    color: red;
+    font-family: fantasy;
+    text-shadow: 4px 4px 5px black;
+}
+
+.funParagraph {
+    color: green;
+    text-decoration: underline overline;
+    font-style: oblique;
+    font-size: large;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bolder;
+}
+
+figcaption {
+    text-align: center;
+    opacity: 70%
+}
+
+section {
+    padding-bottom: 50px;
+}
+
+ul {
+    text-align: center;
+    color: darkgreen;
+    list-style-position: inside;
+}
+
+html {
+    background-color: lightblue;
+}
